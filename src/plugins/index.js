@@ -1,0 +1,1 @@
+import "@/plugins/vant.js"; //vant
